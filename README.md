@@ -8,4 +8,4 @@ Some info:
 - 🤔 I’m looking for help with Java/Minecraft Java stuff
 - 📫 How to reach me: Discord @ Gavin#3577
 - 😄 Pronouns: he/him, they/them
-- ⚡ Fun fact: i know lots of coding languages
+- ⚡ Fun fact: i know lots of coding languages (i know js,cs,java,py,html,css,unity,djs)
