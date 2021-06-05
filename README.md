@@ -9,3 +9,4 @@ Some info:
 - 📫 How to reach me: Discord @ Gavin#3577
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: i know lots of coding languages (i know js,cs,java,py,html,css,unity,djs, and some C and other osdev-stuff)
+- coding for 3 years
