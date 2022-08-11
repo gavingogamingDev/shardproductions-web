@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'SegoeUiLight';
+    src: url("./segoeuil.ttf");
+}
+body {
+    text-decoration: none;
+}
+.h-center {
+    text-align: center;
+    margin: auto;
+}
+.h-center-img {
+    display:block;
+    margin:auto;
+}
+.title1 {
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #fff;
+
+    font-family: 'SegoeUiLight', 'Segoe UI', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Trebuchet MS', Verdana, sans-serif;
+}
+.subtitle {
+    font-size: 1.2em;
+    color: #fff;
+    font-family: 'SegoeUiLight', 'Segoe UI', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Trebuchet MS', Verdana, sans-serif;
+}
+/* unvisited link */
+.subtitle a:link {
+    text-decoration: none;
+    color: rgb(45, 220, 220);
+  }
+  
+  /* visited link */
+  .subtitle   a:visited {
+    text-decoration: none;
+    color: rgb(133, 55, 207);
+  }
+  
+  /* mouse over link */
+  .subtitle  a:hover {
+    text-decoration: underline;
+    color: rgb(3, 175, 175);
+  }
+  
+  /* selected link */
+  .subtitle  a:active {
+    text-decoration: none;
+    color: rgb(15, 15, 209);
+  }
