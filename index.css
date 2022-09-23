@@ -24,9 +24,10 @@ body {
     font-size: 1.2em;
     color: #fff;
     font-family: 'SegoeUiLight', 'Segoe UI', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Trebuchet MS', Verdana, sans-serif;
+    text-decoration: underline;
 }
 /* unvisited link */
-.subtitle a:link {
+/*.subtitle a:link {
     text-decoration: none;
     color: rgb(45, 220, 220);
   }
@@ -35,16 +36,15 @@ body {
   .subtitle   a:visited {
     text-decoration: none;
     color: rgb(133, 55, 207);
-  }
+  }*/
   
   /* mouse over link */
   .subtitle  a:hover {
-    text-decoration: underline;
     color: rgb(3, 175, 175);
   }
   
-  /* selected link */
+  /* selected link
   .subtitle  a:active {
     text-decoration: none;
     color: rgb(15, 15, 209);
-  }
+  }*/
