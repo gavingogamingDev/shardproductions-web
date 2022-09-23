@@ -32,7 +32,7 @@ body {
     color: rgb(45, 220, 220);
   }
   
-  /* visited link */
+  /* visited link
   .subtitle   a:visited {
     text-decoration: none;
     color: rgb(133, 55, 207);
